@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:33:01.720Z",
+  "updatedAt": "2026-11-12T21:37:02.736Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -70,13 +70,13 @@
       "description": "Controle de gastos com limites por categoria e gráficos.",
       "icon": "wallet-outline",
       "color": "#A8751B",
-      "versionName": "9.0",
-      "versionCode": 10,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-10/controlefinanceiro-9.0-10.apk",
-      "sizeBytes": 22968485,
-      "builtAt": "2026-11-12T10:02:35.997Z",
+      "versionName": "9.1",
+      "versionCode": 11,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-11/controlefinanceiro-9.1-11.apk",
+      "sizeBytes": 22968577,
+      "builtAt": "2026-11-12T21:37:01.574Z",
       "notes": [
-        "Implementação de limite mensal de lançamentos por categoria"
+        "v9.1 icone no padrao dos apps (laranja com glifo creme)"
       ]
     },
     {
