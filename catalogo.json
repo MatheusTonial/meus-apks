@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:17:40.568Z",
+  "updatedAt": "2026-11-12T10:03:25.344Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -63,6 +63,21 @@
       "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-3/clima-1.0.0-3.apk",
       "sizeBytes": 77160487,
       "builtAt": "2026-11-11T23:05:18.782Z"
+    },
+    {
+      "package": "com.tonial.controlefinanceiro",
+      "name": "Controle Financeiro",
+      "description": "Controle de gastos com limites por categoria e gráficos.",
+      "icon": "wallet-outline",
+      "color": "#A8751B",
+      "versionName": "9.0",
+      "versionCode": 10,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-10/controlefinanceiro-9.0-10.apk",
+      "sizeBytes": 22968485,
+      "builtAt": "2026-11-12T10:02:35.997Z",
+      "notes": [
+        "Implementação de limite mensal de lançamentos por categoria"
+      ]
     },
     {
       "package": "com.matheustonial.apkhub",
