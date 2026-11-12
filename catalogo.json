@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:38:30.110Z",
+  "updatedAt": "2026-11-12T00:17:40.568Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -32,10 +32,10 @@
       "icon": "bell-outline",
       "color": "#3E2723",
       "versionName": "1.0.0",
-      "versionCode": 5,
-      "apkUrl": "https://expo.dev/artifacts/eas/SxuI8CJQv2arQPCTyw-yJDW6xb42SkUYZNo64nSM6oc.apk",
-      "builtAt": "2026-10-19T21:20:54.441Z",
-      "expiresAt": "2026-11-02T20:58:51.945Z",
+      "versionCode": 6,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/reminderapp-6/reminderapp-1.0.0-6.apk",
+      "sizeBytes": 105967398,
+      "builtAt": "2026-11-12T00:13:52.540Z",
       "notes": [
         "Home: destaca com borda os lembretes que não se repetem"
       ]
