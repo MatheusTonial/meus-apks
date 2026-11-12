@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:30:33.238Z",
+  "updatedAt": "2026-11-12T21:33:01.720Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -91,7 +91,7 @@
       "sizeBytes": 28626996,
       "builtAt": "2026-11-12T21:30:31.671Z",
       "notes": [
-        "remove copia antiga de LibraryScreen da raiz do repositorio"
+        "icone no padrao dos apps (laranja com glifo creme) e versao 1.1"
       ]
     },
     {
