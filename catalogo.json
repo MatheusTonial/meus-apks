@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:37:02.736Z",
+  "updatedAt": "2026-11-12T22:14:48.632Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -58,11 +58,11 @@
       "description": "Clima agora e previsão de 7 dias dos seus lugares.",
       "icon": "weather-partly-cloudy",
       "color": "#bd4b00",
-      "versionName": "1.0.0",
-      "versionCode": 3,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-3/clima-1.0.0-3.apk",
-      "sizeBytes": 77160487,
-      "builtAt": "2026-11-11T23:05:18.782Z"
+      "versionName": "1.1.0",
+      "versionCode": 4,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-4/clima-1.1.0-4.apk",
+      "sizeBytes": 78556347,
+      "builtAt": "2026-11-12T22:14:00.089Z"
     },
     {
       "package": "com.tonial.controlefinanceiro",
@@ -76,7 +76,7 @@
       "sizeBytes": 22968577,
       "builtAt": "2026-11-12T21:37:01.574Z",
       "notes": [
-        "v9.1 icone no padrao dos apps (laranja com glifo creme)"
+        "adiciona arquivos que faltavam no git: telas de Analise e Configuracoes, projecao de gasto, preferencia de tema, cores do modo escuro e icone da loja"
       ]
     },
     {
