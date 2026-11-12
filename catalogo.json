@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:54:49.766Z",
+  "updatedAt": "2026-11-12T23:40:59.764Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -58,13 +58,13 @@
       "description": "Clima agora e previsão de 7 dias dos seus lugares.",
       "icon": "weather-partly-cloudy",
       "color": "#bd4b00",
-      "versionName": "1.2.0",
-      "versionCode": 6,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-6/clima-1.2.0-6.apk",
-      "sizeBytes": 78564931,
-      "builtAt": "2026-11-12T22:54:49.248Z",
+      "versionName": "1.2.1",
+      "versionCode": 7,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-7/clima-1.2.1-7.apk",
+      "sizeBytes": 78572447,
+      "builtAt": "2026-11-12T23:40:59.264Z",
       "notes": [
-        "workflow: usa o Android SDK que ja vem no runner"
+        "1.2.1: widget agrupado no centro e proporcional ao tamanho; escolher o local dos widgets nas configuracoes"
       ]
     },
     {
