@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:19:37.284Z",
+  "updatedAt": "2026-11-12T21:30:33.238Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -77,6 +77,21 @@
       "builtAt": "2026-11-12T10:02:35.997Z",
       "notes": [
         "Implementação de limite mensal de lançamentos por categoria"
+      ]
+    },
+    {
+      "package": "com.tonial.fastread",
+      "name": "FastRead",
+      "description": "Leitura rápida de livros (EPUB, MOBI, TXT), palavra por palavra.",
+      "icon": "book-open-page-variant-outline",
+      "color": "#6D4C41",
+      "versionName": "1.1",
+      "versionCode": 2,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/fastread-2/fastread-1.1-2.apk",
+      "sizeBytes": 28626996,
+      "builtAt": "2026-11-12T21:30:31.671Z",
+      "notes": [
+        "remove copia antiga de LibraryScreen da raiz do repositorio"
       ]
     },
     {
