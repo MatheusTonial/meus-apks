@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:14:48.632Z",
+  "updatedAt": "2026-11-12T22:54:49.766Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -58,11 +58,14 @@
       "description": "Clima agora e previsão de 7 dias dos seus lugares.",
       "icon": "weather-partly-cloudy",
       "color": "#bd4b00",
-      "versionName": "1.1.0",
-      "versionCode": 4,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-4/clima-1.1.0-4.apk",
-      "sizeBytes": 78556347,
-      "builtAt": "2026-11-12T22:14:00.089Z"
+      "versionName": "1.2.0",
+      "versionCode": 6,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-6/clima-1.2.0-6.apk",
+      "sizeBytes": 78564931,
+      "builtAt": "2026-11-12T22:54:49.248Z",
+      "notes": [
+        "workflow: usa o Android SDK que ja vem no runner"
+      ]
     },
     {
       "package": "com.tonial.controlefinanceiro",
