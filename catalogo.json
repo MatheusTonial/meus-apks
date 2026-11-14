@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:13:05.959Z",
+  "updatedAt": "2026-11-14T17:19:54.135Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -73,13 +73,13 @@
       "description": "Controle de gastos com limites por categoria e gráficos.",
       "icon": "wallet-outline",
       "color": "#A8751B",
-      "versionName": "9.2",
-      "versionCode": 12,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-12/controlefinanceiro-9.2-12.apk",
-      "sizeBytes": 22968645,
-      "builtAt": "2026-11-14T12:16:47.624Z",
+      "versionName": "9.3",
+      "versionCode": 13,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-13/controlefinanceiro-9.3-13.apk",
+      "sizeBytes": 22971907,
+      "builtAt": "2026-11-14T17:18:08.110Z",
       "notes": [
-        "Widget com o mesmo fundo dos outros widgets"
+        "Recebe gastos do Mercadinho (IMPORTAR_GASTO)"
       ]
     },
     {
