@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:04:57.835Z",
+  "updatedAt": "2026-11-14T12:16:49.192Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -37,7 +37,7 @@
       "sizeBytes": 107341998,
       "builtAt": "2026-11-13T10:04:25.253Z",
       "notes": [
-        "Widget da tela inicial com os próximos lembretes marcados"
+        "Widget: layout pelo tamanho, sem lista rolável"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "sizeBytes": 78572611,
       "builtAt": "2026-11-13T00:20:25.730Z",
       "notes": [
-        "1.2.2: widget com altura do conteudo e escala pela largura (nao muda de tamanho ao atualizar pelo app)"
+        "Widget pode ficar com 1 linha de altura"
       ]
     },
     {
@@ -73,13 +73,13 @@
       "description": "Controle de gastos com limites por categoria e gráficos.",
       "icon": "wallet-outline",
       "color": "#A8751B",
-      "versionName": "9.1",
-      "versionCode": 11,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-11/controlefinanceiro-9.1-11.apk",
-      "sizeBytes": 22968577,
-      "builtAt": "2026-11-12T21:37:01.574Z",
+      "versionName": "9.2",
+      "versionCode": 12,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/controlefinanceiro-12/controlefinanceiro-9.2-12.apk",
+      "sizeBytes": 22968645,
+      "builtAt": "2026-11-14T12:16:47.624Z",
       "notes": [
-        "adiciona arquivos que faltavam no git: telas de Analise e Configuracoes, projecao de gasto, preferencia de tema, cores do modo escuro e icone da loja"
+        "Widget com o mesmo fundo dos outros widgets"
       ]
     },
     {
