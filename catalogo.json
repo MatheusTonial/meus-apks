@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:16:49.192Z",
+  "updatedAt": "2026-11-14T12:18:29.174Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -31,11 +31,11 @@
       "description": "Lembretes com notificação no horário certo.",
       "icon": "bell-outline",
       "color": "#3E2723",
-      "versionName": "1.1.0",
-      "versionCode": 7,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/reminderapp-7/reminderapp-1.1.0-7.apk",
-      "sizeBytes": 107341998,
-      "builtAt": "2026-11-13T10:04:25.253Z",
+      "versionName": "1.1.1",
+      "versionCode": 8,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/reminderapp-8/reminderapp-1.1.1-8.apk",
+      "sizeBytes": 107342458,
+      "builtAt": "2026-11-14T12:18:28.464Z",
       "notes": [
         "Widget: layout pelo tamanho, sem lista rolável"
       ]
