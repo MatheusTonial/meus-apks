@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:40:17.068Z",
+  "updatedAt": "2026-11-14T13:45:58.842Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -96,6 +96,18 @@
       "notes": [
         "icone no padrao dos apps (laranja com glifo creme) e versao 1.1"
       ]
+    },
+    {
+      "package": "com.tonial.economia",
+      "name": "Economia",
+      "description": "Liga e desliga a economia de bateria por horário e pelo widget.",
+      "icon": "leaf",
+      "color": "#5B7B4A",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/economia-1/economia-1.0-1.apk",
+      "sizeBytes": 17232523,
+      "builtAt": "2026-11-14T13:45:13.969Z"
     },
     {
       "package": "com.matheustonial.apkhub",
