@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:12:08.956Z",
+  "updatedAt": "2026-11-15T21:56:23.768Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -79,13 +79,13 @@
       "description": "Divide o salário em potes e mostra quanto dá para gastar hoje.",
       "icon": "cash-multiple",
       "color": "#bd4b00",
-      "versionName": "1.1.0",
-      "versionCode": 2,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-2/financas-1.1.0-2.apk",
-      "sizeBytes": 71353734,
-      "builtAt": "2026-11-15T21:10:12.798Z",
+      "versionName": "1.2.0",
+      "versionCode": 3,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-3/financas-1.2.0-3.apk",
+      "sizeBytes": 72114018,
+      "builtAt": "2026-11-15T21:56:23.103Z",
       "notes": [
-        "App Finanças: potes, salário, lançamentos, fechamento, sync Supabase e build do APK pelo GitHub"
+        "Widget 2x2 na tela inicial: gasto do mês, pode gastar hoje e + para lançar"
       ]
     },
     {
