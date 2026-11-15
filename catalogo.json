@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-15T17:11:00.372Z",
+  "updatedAt": "2026-11-15T17:12:41.266Z",
   "apps": [
+    {
+      "package": "com.matheustonial.todo_list",
+      "name": "Lista de tarefas",
+      "description": "Tarefas do dia a dia.",
+      "icon": "checkbox-marked-outline",
+      "color": "#5F6F3A",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-1/todo-list-1.0.0-1.apk",
+      "sizeBytes": 93106987,
+      "builtAt": "2026-11-11T22:06:40.968Z"
+    },
     {
       "package": "com.matheustonial.audiobooks",
       "name": "Audiolivros",
