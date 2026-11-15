@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:12:41.266Z",
+  "updatedAt": "2026-11-15T17:55:17.853Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -8,10 +8,13 @@
       "icon": "checkbox-marked-outline",
       "color": "#5F6F3A",
       "versionName": "1.0.0",
-      "versionCode": 1,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-1/todo-list-1.0.0-1.apk",
-      "sizeBytes": 93106987,
-      "builtAt": "2026-11-11T22:06:40.968Z"
+      "versionCode": 2,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-2/todo-list-1.0.0-2.apk",
+      "sizeBytes": 96731305,
+      "builtAt": "2026-11-15T17:55:17.308Z",
+      "notes": [
+        "Widget de tarefas, reordenar listas, navegação sem empilhar e splash"
+      ]
     },
     {
       "package": "com.matheustonial.audiobooks",
