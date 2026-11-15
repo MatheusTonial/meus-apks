@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:57:11.075Z",
+  "updatedAt": "2026-11-15T21:10:13.415Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -74,6 +74,21 @@
       ]
     },
     {
+      "package": "com.matheustonial.financas",
+      "name": "Finanças",
+      "description": "Divide o salário em potes e mostra quanto dá para gastar hoje.",
+      "icon": "cash-multiple",
+      "color": "#bd4b00",
+      "versionName": "1.1.0",
+      "versionCode": 2,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-2/financas-1.1.0-2.apk",
+      "sizeBytes": 71353734,
+      "builtAt": "2026-11-15T21:10:12.798Z",
+      "notes": [
+        "App Finanças: potes, salário, lançamentos, fechamento, sync Supabase e build do APK pelo GitHub"
+      ]
+    },
+    {
       "package": "com.tonial.controlefinanceiro",
       "name": "Controle Financeiro",
       "description": "Controle de gastos com limites por categoria e gráficos.",
@@ -133,13 +148,13 @@
       "description": "Lê a nota do mercado, guarda os preços e ajuda a montar a lista de compras.",
       "icon": "cart-outline",
       "color": "#5F6F3A",
-      "versionName": "1.1.1",
-      "versionCode": 4,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/mercadinho-4/mercadinho-1.1.1-4.apk",
-      "sizeBytes": 135202581,
-      "builtAt": "2026-11-14T20:38:32.712Z",
+      "versionName": "1.2.0",
+      "versionCode": 5,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/mercadinho-5/mercadinho-1.2.0-5.apk",
+      "sizeBytes": 135205213,
+      "builtAt": "2026-11-15T21:10:18.340Z",
       "notes": [
-        "1.1.1: widget com altura fixa, Enter adiciona item e preços alinhados"
+        "1.2.0: lança o total das compras no app Finanças"
       ]
     }
   ]
