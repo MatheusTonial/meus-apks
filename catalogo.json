@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:56:23.768Z",
+  "updatedAt": "2026-11-15T22:32:48.943Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -136,11 +136,14 @@
       "description": "Este app: instala e atualiza os outros.",
       "icon": "apps",
       "color": "#bd4b00",
-      "versionName": "1.0.0",
-      "versionCode": 3,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/apkhub-3/apkhub-1.0.0-3.apk",
-      "sizeBytes": 70619387,
-      "builtAt": "2026-11-11T23:37:48.125Z"
+      "versionName": "1.1.0",
+      "versionCode": 4,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/apkhub-4/apkhub-1.1.0-4.apk",
+      "sizeBytes": 70648703,
+      "builtAt": "2026-11-15T22:32:48.366Z",
+      "notes": [
+        "Hub: Painel com widgets dos apps, atalhos e atualizações; lista em aba Apps ordenada pela versão mais recente"
+      ]
     },
     {
       "package": "com.matheustonial.mercadinho",
