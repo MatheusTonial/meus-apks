@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:13:08.933Z",
+  "updatedAt": "2026-11-20T14:42:44.438Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -79,13 +79,13 @@
       "description": "Divide o salário em potes e mostra quanto dá para gastar hoje.",
       "icon": "cash-multiple",
       "color": "#bd4b00",
-      "versionName": "1.4.1",
-      "versionCode": 8,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-8/financas-1.4.1-8.apk",
-      "sizeBytes": 72173150,
-      "builtAt": "2026-11-20T14:13:07.748Z",
+      "versionName": "1.4.2",
+      "versionCode": 9,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-9/financas-1.4.2-9.apk",
+      "sizeBytes": 72175038,
+      "builtAt": "2026-11-20T14:42:43.862Z",
       "notes": [
-        "1.4.1: Início agrupa Futuro e metas numa linha expansível"
+        "1.4.3: Sair volta para a tela de boas-vindas"
       ]
     },
     {
