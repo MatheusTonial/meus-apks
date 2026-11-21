@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:48:26.578Z",
+  "updatedAt": "2026-11-21T23:19:41.128Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -8,10 +8,10 @@
       "icon": "checkbox-marked-outline",
       "color": "#5F6F3A",
       "versionName": "1.0.0",
-      "versionCode": 3,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-3/todo-list-1.0.0-3.apk",
+      "versionCode": 4,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-4/todo-list-1.0.0-4.apk",
       "sizeBytes": 96897615,
-      "builtAt": "2026-11-15T18:57:10.557Z",
+      "builtAt": "2026-11-21T23:19:40.613Z",
       "notes": [
         "Widget: documenta o formato \"preencher\""
       ]
