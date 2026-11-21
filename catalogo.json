@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:26:56.599Z",
+  "updatedAt": "2026-11-21T22:48:26.578Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -13,7 +13,7 @@
       "sizeBytes": 96897615,
       "builtAt": "2026-11-15T18:57:10.557Z",
       "notes": [
-        "Widget de tarefas no mesmo padrão visual dos outros widgets"
+        "Widget: documenta o formato \"preencher\""
       ]
     },
     {
@@ -38,12 +38,12 @@
       "icon": "bell-outline",
       "color": "#3E2723",
       "versionName": "1.3.0",
-      "versionCode": 10,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/reminderapp-10/reminderapp-1.3.0-10.apk",
+      "versionCode": 11,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/reminderapp-11/reminderapp-1.3.0-11.apk",
       "sizeBytes": 107350534,
-      "builtAt": "2026-11-14T21:28:49.813Z",
+      "builtAt": "2026-11-21T22:48:25.823Z",
       "notes": [
-        "Versão 1.3.0"
+        "Widget: documenta o formato \"preencher\""
       ]
     },
     {
