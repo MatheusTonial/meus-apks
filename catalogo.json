@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T14:20:52.951Z",
+  "updatedAt": "2026-11-28T15:14:43.693Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -151,13 +151,13 @@
       "description": "Lê a nota do mercado, guarda os preços e ajuda a montar a lista de compras.",
       "icon": "cart-outline",
       "color": "#5F6F3A",
-      "versionName": "1.3.0",
-      "versionCode": 6,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/mercadinho-6/mercadinho-1.3.0-6.apk",
-      "sizeBytes": 135293617,
-      "builtAt": "2026-11-24T22:05:59.893Z",
+      "versionName": "1.4.0",
+      "versionCode": 7,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/mercadinho-7/mercadinho-1.4.0-7.apk",
+      "sizeBytes": 135282693,
+      "builtAt": "2026-11-28T15:14:42.930Z",
       "notes": [
-        "1.3.0: lê a nota pelo PDF e trata o bloqueio da SEFAZ"
+        "1.4.0: tema Grafite"
       ]
     }
   ]
