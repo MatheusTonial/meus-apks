@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T15:14:43.693Z",
+  "updatedAt": "2026-11-28T16:02:49.360Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -136,13 +136,13 @@
       "description": "Este app: instala e atualiza os outros.",
       "icon": "apps",
       "color": "#bd4b00",
-      "versionName": "1.4.1",
-      "versionCode": 9,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/apkhub-9/apkhub-1.4.1-9.apk",
-      "sizeBytes": 70797318,
-      "builtAt": "2026-11-25T10:01:14.214Z",
+      "versionName": "1.5.0",
+      "versionCode": 10,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/apkhub-10/apkhub-1.5.0-10.apk",
+      "sizeBytes": 70788914,
+      "builtAt": "2026-11-28T16:02:48.535Z",
       "notes": [
-        "1.4.1: corrige o Hub fechando ao abrir"
+        "1.5.0: tema Grafite"
       ]
     },
     {
