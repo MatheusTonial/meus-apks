@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T16:29:22.371Z",
+  "updatedAt": "2026-11-28T16:55:26.080Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -64,13 +64,13 @@
       "description": "Clima agora e previsão de 7 dias dos seus lugares.",
       "icon": "weather-partly-cloudy",
       "color": "#bd4b00",
-      "versionName": "1.2.4",
-      "versionCode": 10,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-10/clima-1.2.4-10.apk",
-      "sizeBytes": 78572847,
-      "builtAt": "2026-11-28T11:43:00.326Z",
+      "versionName": "1.3.0",
+      "versionCode": 11,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-11/clima-1.3.0-11.apk",
+      "sizeBytes": 78558583,
+      "builtAt": "2026-11-28T16:55:25.273Z",
       "notes": [
-        "1.2.4: widget baixo e estreito encolhe em vez de quebrar os numeros"
+        "1.3.0: tema Grafite"
       ]
     },
     {
