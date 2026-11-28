@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T10:01:15.711Z",
+  "updatedAt": "2026-11-28T11:43:01.141Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -64,13 +64,13 @@
       "description": "Clima agora e previsão de 7 dias dos seus lugares.",
       "icon": "weather-partly-cloudy",
       "color": "#bd4b00",
-      "versionName": "1.2.3",
-      "versionCode": 9,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-9/clima-1.2.3-9.apk",
-      "sizeBytes": 78572763,
-      "builtAt": "2026-11-14T12:40:16.365Z",
+      "versionName": "1.2.4",
+      "versionCode": 10,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/clima-10/clima-1.2.4-10.apk",
+      "sizeBytes": 78572847,
+      "builtAt": "2026-11-28T11:43:00.326Z",
       "notes": [
-        "Widget pode ficar com 1 linha de altura"
+        "1.2.4: widget baixo e estreito encolhe em vez de quebrar os numeros"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "sizeBytes": 72187202,
       "builtAt": "2026-11-20T15:26:56.021Z",
       "notes": [
-        "Forma de pagamento padrão, ordem do Pago com e edição de categorias (1.4.4)"
+        "1.5.0: lançar a partir de comprovante compartilhado"
       ]
     },
     {
