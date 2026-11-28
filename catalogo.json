@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T11:55:32.415Z",
+  "updatedAt": "2026-11-28T12:23:09.867Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -79,13 +79,13 @@
       "description": "Divide o salário em potes e mostra quanto dá para gastar hoje.",
       "icon": "cash-multiple",
       "color": "#bd4b00",
-      "versionName": "1.5.0",
-      "versionCode": 12,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-12/financas-1.5.0-12.apk",
-      "sizeBytes": 115036003,
-      "builtAt": "2026-11-28T11:55:31.551Z",
+      "versionName": "1.5.1",
+      "versionCode": 13,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/financas-13/financas-1.5.1-13.apk",
+      "sizeBytes": 72601880,
+      "builtAt": "2026-11-28T12:23:09.226Z",
       "notes": [
-        "1.5.0: lançar a partir de comprovante compartilhado"
+        "1.5.1: OCR do comprovante pelo Play Services (APK menor)"
       ]
     },
     {
