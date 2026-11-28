@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T20:23:15.635Z",
+  "updatedAt": "2026-11-28T20:59:52.858Z",
   "apps": [
     {
       "package": "com.matheustonial.todo_list",
@@ -7,11 +7,11 @@
       "description": "Tarefas do dia a dia.",
       "icon": "checkbox-marked-outline",
       "color": "#5F6F3A",
-      "versionName": "1.1.0",
-      "versionCode": 5,
-      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-5/todo-list-1.1.0-5.apk",
+      "versionName": "1.1.1",
+      "versionCode": 6,
+      "apkUrl": "https://github.com/MatheusTonial/meus-apks/releases/download/todo-list-6/todo-list-1.1.1-6.apk",
       "sizeBytes": 96908351,
-      "builtAt": "2026-11-28T19:52:47.271Z",
+      "builtAt": "2026-11-28T20:59:52.176Z",
       "notes": [
         "1.1.1: botão principal em #ff8a3d também no modo escuro"
       ]
